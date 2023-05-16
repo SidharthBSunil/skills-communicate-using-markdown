@@ -1,6 +1,6 @@
 # in 1*# size is large
 ###### in 6*# size is small
-# Image Of Spiderman
+# Image Of cat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 #include<stdio.h>
